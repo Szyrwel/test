@@ -15,9 +15,9 @@
 * #### VS Code
 ---
 ## **Code**
-`
+```
 <h1>скоро тут будет крутой код</h1>
-`
+```
 ---
 ## **Education**
 * #### 2022 - The Rolling Scopes School - JS / FRONT-END. STAGE 0 (in progress)
